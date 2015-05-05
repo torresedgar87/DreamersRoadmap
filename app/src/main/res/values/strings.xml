@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dreamers Roadmap</string>
+
+    <string name="welcome_message">Welcome, Dreamers!</string>
+    <string name="action_settings">Settings</string>
+    <string name="email_label">Email</string>
+    <string name="email_text_value">youremail@example.com</string>
+    <string name="password_lable">Password</string>
+    <string name="login_button">LOGIN</string>
+    <string name="signup_button">SIGNUP</string>
+</resources>

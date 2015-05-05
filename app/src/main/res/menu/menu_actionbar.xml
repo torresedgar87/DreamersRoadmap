@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_news_action"
+        android:icon="@drawable/news_128"
+        android:title="News"
+        android:showAsAction="always"/>
+
+    <item
+        android:id="@+id/menu_scholar_action"
+        android:icon="@drawable/scholarship_icon1"
+        android:title="Scholarship"
+        android:showAsAction="always"/>
+
+    <item
+        android:id="@+id/menu_user_action"
+        android:icon="@drawable/user"
+        android:title="User"
+        android:showAsAction="always"/>
+
+    <item
+        android:id="@+id/menu_alert_action"
+        android:icon="@drawable/icon_ios7_bell_128"
+        android:title="Alert"
+        android:showAsAction="always"/>
+
+    <item
+        android:id="@+id/menu_settings_action"
+        android:icon="@drawable/settings"
+        android:title="Alert"
+        android:showAsAction="always"/>
+
+</menu>
